@@ -1,0 +1,17 @@
+{
+    "BF_pix_diameter":1,
+    "BF_sigmaColor":150,
+    "BF_sigmaSpace":150,
+    "WLS_DDR":1,
+    "WLS_LRS":50,
+    "WLS_lmbda":80000,
+    "WLS_sigma":130,
+    "minDisparity":-95,
+    "numberOfDisparities":59,
+    "preFilterCap":15,
+    "preFilterSize":255,
+    "speckleRange":255,
+    "speckleWindowSize":255,
+    "textureThreshold":1000,
+    "uniquenessRatio":1
+}
